@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository
-This will probably get deletet very soon!
+This will probably get deleted very soon!
